@@ -5,7 +5,7 @@ workshop, which I will give on 19 Feb 2019 at the
 Steenbock Library at UW-Madison.
 
 The compiled slides:
-[whyrr_2019.pdf](https://www.biostat.wisc.edu/~kbroman/presentations/whyrr_2019.pdf)
+[whyrr2019.pdf](https://www.biostat.wisc.edu/~kbroman/presentations/whyrr2019.pdf)
 
 ---
 
